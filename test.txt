@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, I'm practicing git.
+=======
+Test
+>>>>>>> 108168ad17a66789f75d6453d1ce36d69aa0e2c6
